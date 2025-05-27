@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Splunk, Web Penetration, LLM Exploitation etc*
 
-- 👨‍💻 All of my projects are available at <a href="yneha.netlify.app"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://yneha.netlify.app"> Portfolio </a>
 
 - 📝 I regularly write articles on [Netrinix.com](Netrinix.com)
 
