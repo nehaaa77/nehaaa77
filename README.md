@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://yneha.netlify.app"> Portfolio </a>
 
-- 📝 I regularly write articles on [Netrinix.com](Netrinix.com)
+- 📝 I regularly write articles on [Netrinix.com](https://Netrinix.com)
 
 - 💬 Ask me about *Hacking, Infosec and Web app Vulnerability*
 
